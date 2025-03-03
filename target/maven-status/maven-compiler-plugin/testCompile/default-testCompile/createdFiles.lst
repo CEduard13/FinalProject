@@ -1,0 +1,6 @@
+pageObjects\BasePage.class
+testRunner\TestRunner.class
+hooks\GlobalHooks.class
+pageObjects\HomePage.class
+stepDefinitions\StepDefinitions.class
+pageObjects\RegistrationPage.class
